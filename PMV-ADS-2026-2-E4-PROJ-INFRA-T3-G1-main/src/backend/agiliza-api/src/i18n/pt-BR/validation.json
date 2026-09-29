@@ -1,0 +1,6 @@
+{
+  "IS_STRING": "{property} deve ser uma string",
+  "IS_EMAIL": "{property} deve ser válido",
+  "IS_UNIQUE": "{property} já está em uso",
+  "IS_NOT_EMPTY": "{property} não deve ser vazio"
+}
